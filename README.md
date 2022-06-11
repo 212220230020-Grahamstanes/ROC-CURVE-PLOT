@@ -75,7 +75,7 @@ plt.show()
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/75235150/169641425-e41e348b-d766-4af3-b95d-631bd6e9b7a5.png)
+![Screenshot_642](https://user-images.githubusercontent.com/75235455/168774271-1ac53e29-d4ea-42bb-b732-01306f775638.png)
 
 
 ## Result:
